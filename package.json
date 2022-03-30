@@ -1,0 +1,22 @@
+{
+  "name": "javascriptseleniumwebdriverproject",
+  "version": "1.0.0",
+  "description": "Selenium Exemple Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeissyguimaraes/javascriptseleniumwebdriverproject.git"
+  },
+  "author": "Jeissy Guimarães",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeissyguimaraes/javascriptseleniumwebdriverproject/issues"
+  },
+  "homepage": "https://github.com/jeissyguimaraes/javascriptseleniumwebdriverproject#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
